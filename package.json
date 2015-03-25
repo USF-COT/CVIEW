@@ -28,9 +28,7 @@
   "description": "CBASS Viewer",
   "main": "app.js",
   "devDependencies": {
-    "browserify": "^9.0.3",
     "jest-cli": "^0.4.0",
-    "uglify-js": "^2.4.17",
     "watchify": "^2.6.0"
   },
   "keywords": [
