@@ -1,6 +1,6 @@
 {
   "name": "cview",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -14,5 +14,29 @@
     "morgan": "~1.5.1",
     "reflux": "^0.2.7",
     "serve-favicon": "~2.2.0"
-  }
+  },
+  "description": "CBASS Viewer",
+  "main": "app.js",
+  "devDependencies": {},
+  "keywords": [
+    "CBASS",
+    "Camera-Based",
+    "Assessment",
+    "Survey",
+    "System",
+    "marine",
+    "science",
+    "oceanography",
+    "video"
+  ],
+  "author": "Michael Lindemuth & Alex Silverman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/USF-COT/CVIEW.git"
+  },
+  "bugs": {
+    "url": "https://github.com/USF-COT/CVIEW/issues"
+  },
+  "homepage": "https://github.com/USF-COT/CVIEW"
 }
